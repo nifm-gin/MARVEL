@@ -3,7 +3,7 @@
 ## Attached code for the paper MARVEL: MR Fingerprinting with Additional micRoVascular Estimates using bidirectional LSTMs
 
 
-This repository contains attached code to our MICCAI 24 paper MARVEL (todo: add link to publication). Please do not hesitate to contact us in case of any trouble dealing with our code. 
+This repository contains attached code to our MICCAI 24 paper MARVEL (todo: add link to publication ). Please do not hesitate to contact us in case of any trouble dealing with our code. 
 
 
 ## Requirements
