@@ -24,3 +24,8 @@ To train the network, use `train_BiLSTM.py`. The code requires the following fun
 
 - `convol_base_dico(DICO_base_params, DICO_base_signals, vasc_params, vasc_distribs)`: function that convolves the base dictionary along the df axis to produce the vascular dictionary. Returns two numpy arrays, one with its parameter values of shape `(n_signals, n_parameters)` and the second with its signals of shape `(n_signals, n_pulses)`
 
+
+If you use our code, please cite :
+
+`Antoine Barrier and Thomas Coudert, A. Delphin, B. Lemasson and T. Christen, MARVEL: MR Fingerprinting with Additional micRoVascular Estimates using bidirectional LSTMs, Proceeding of MICCAI 2024 (2024).`
+
