@@ -3,7 +3,7 @@
 ## Attached code for the paper MARVEL: MR Fingerprinting with Additional micRoVascular Estimates using bidirectional LSTMs
 
 
-This repository contains attached code to our MICCAI 24 paper MARVEL (todo: add link to publication ). Please do not hesitate to contact us in case of any trouble dealing with our code. 
+This repository contains attached code to our MICCAI 2024 paper MARVEL ([preprint](https://arxiv.org/abs/2407.10512) and [published](https://link.springer.com/chapter/10.1007/978-3-031-72069-7_25) versions). Please do not hesitate to contact us in case of any trouble dealing with our code. 
 
 
 ## Requirements
@@ -27,5 +27,5 @@ To train the network, use `train_BiLSTM.py`. The code requires the following fun
 
 If you use our code, please cite :
 
-`Antoine Barrier and Thomas Coudert, A. Delphin, B. Lemasson and T. Christen, MARVEL: MR Fingerprinting with Additional micRoVascular Estimates using bidirectional LSTMs, Proceeding of MICCAI 2024 (2024).`
+`Barrier, A., Coudert, T., Delphin, A., Lemasson, B., Christen, T. (2024). MARVEL: MR Fingerprinting with Additional micRoVascular Estimates Using Bidirectional LSTMs. In: Linguraru, M.G., et al. Medical Image Computing and Computer Assisted Intervention – MICCAI 2024. MICCAI 2024. Lecture Notes in Computer Science, vol 15002. Springer, Cham. https://doi.org/10.1007/978-3-031-72069-7_25`
 
